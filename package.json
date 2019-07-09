@@ -1,0 +1,27 @@
+{
+  "name": "electron-demo",
+  "version": "1.0.0",
+  "description": "electron desktop demo",
+  "main": "index.js",
+  "engines": {
+    "node": "12.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhvoduy/electron-demo.git"
+  },
+  "author": "voduyanh",
+  "email": "voduyanh1984@yahoo.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anhvoduy/electron-demo/issues"
+  },
+  "homepage": "https://github.com/anhvoduy/electron-demo#readme",
+  "devDependencies": {
+    "electron": "^5.0.5"
+  }
+}
