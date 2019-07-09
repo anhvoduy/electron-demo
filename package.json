@@ -2,7 +2,7 @@
   "name": "electron-demo",
   "version": "1.0.0",
   "description": "electron desktop demo",
-  "main": "index.js",
+  "main": "main.js",
   "engines": {
     "node": "12.2.0"
   },
